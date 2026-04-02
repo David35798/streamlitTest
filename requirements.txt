@@ -4,5 +4,4 @@ numpy
 joblib
 scikit-learn
 matplotlib
-pickle
 tensorflow
